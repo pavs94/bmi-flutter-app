@@ -3,8 +3,7 @@
 
 This is a flutter app with functionality to calculate your Body Mass Index (BMI).
 
-# [![Flutter logo][]][flutter.dev]
-
+# About Flutter
 Flutter is Google's SDK for crafting beautiful, fast user experiences for
 mobile, web and desktop from a single codebase. Flutter works with existing
 code, is used by developers and organizations around the world, and is free
